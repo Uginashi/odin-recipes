@@ -9,16 +9,19 @@ padding: 0;
 .list-item {
 font-weight: bold;
 font-size: 40px;
+margin-top: 0px;
 }
 
 .listdesc {
 font-size: 25px;
+margin-top: 10px;
+margin-bottom: 60px;
 }
 
 .intro {
     margin-left: 8cm;
     margin-right: 8cm;
-    margin-top: 1.5cm;
+    margin-top: 1cm;
     font-size: 25px;
 }
 
@@ -26,6 +29,7 @@ font-size: 25px;
     font-size: 80px;
     text-align: center;
     text-shadow: 5px;
+    margin-bottom: 0px;
 }
 
 ul {
@@ -44,4 +48,39 @@ ul {
     padding-bottom: 0.5cm;
     border: #141d25;
     border: 5px;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 75px;
+    color: black;
+    margin-bottom: 0;
+}
+h6 {
+    text-align: center;
+    color: black;
+    margin: 0;
+}
+
+.fblk {
+    padding-bottom: 1cm;
+    margin-left: 4cm;
+}
+
+.f {
+    font-size: 25px;
+    margin-left: 55%;
+}
+
+.sm {
+    font-size: 25px;
+    color: orangered; 
+    text-decoration: none;
+    margin-left: 3%;
+}
+
+.link {
+    text-decoration: none;
+    color: orange;
 }
