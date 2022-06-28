@@ -12,10 +12,17 @@ font-size: 40px;
 margin-top: 0px;
 }
 
+.ing {
+    font-size: 30px;
+    margin-top: 0px;
+    font-weight: bold;
+}
+
 .listdesc {
 font-size: 25px;
 margin-top: 10px;
 margin-bottom: 60px;
+margin-right: 8cm;
 }
 
 .intro {
@@ -33,6 +40,12 @@ margin-bottom: 60px;
 }
 
 ul {
+    margin-top: 2cm;
+    margin-left: 8cm;
+    color: black;
+}
+
+ol {
     margin-top: 2cm;
     margin-left: 8cm;
     color: black;
