@@ -1,28 +1,47 @@
 body {
-
+color: white;
+background-color: #2d333b;
+font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+margin: 0;
+padding: 0;
 }
 
 .list-item {
-
+font-weight: bold;
+font-size: 40px;
 }
 
 .listdesc {
-
+font-size: 25px;
 }
 
 .intro {
-margin-left: 8cm;
-margin-right: 8cm;
-margin-top: 1.5cm;
+    margin-left: 8cm;
+    margin-right: 8cm;
+    margin-top: 1.5cm;
+    font-size: 25px;
 }
 
 .title {
-font-size: 80px;
-text-align: center;
-text-shadow: 5px;
+    font-size: 80px;
+    text-align: center;
+    text-shadow: 5px;
 }
 
 ul {
     margin-top: 2cm;
     margin-left: 8cm;
+    color: black;
+}
+
+.list {
+    background-color: #cedfee;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 2cm;
+    margin-top: 2cm;
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
+    border: #141d25;
+    border: 5px;
 }
