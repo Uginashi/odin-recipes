@@ -1,0 +1,28 @@
+body {
+
+}
+
+.list-item {
+
+}
+
+.listdesc {
+
+}
+
+.intro {
+margin-left: 8cm;
+margin-right: 8cm;
+margin-top: 1.5cm;
+}
+
+.title {
+font-size: 80px;
+text-align: center;
+text-shadow: 5px;
+}
+
+ul {
+    margin-top: 2cm;
+    margin-left: 8cm;
+}
